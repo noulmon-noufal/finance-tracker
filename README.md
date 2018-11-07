@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* THIS IS THE CHANGE FOR SECOND COMMIT.
+
 * ...

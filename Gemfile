@@ -12,6 +12,8 @@ gem 'jquery-rails'
 gem 'bootstrap', '~> 4.1', '>= 4.1.3'
 gem 'devise-bootstrap-views'
 
+gem 'stock_quote'
+
 # gem 'therubyracer'
 
 # Use Puma as the app server

@@ -14,6 +14,8 @@ gem 'devise-bootstrap-views'
 
 gem 'stock_quote'
 
+gem 'font-awesome-rails'
+
 # gem 'therubyracer'
 
 # Use Puma as the app server
